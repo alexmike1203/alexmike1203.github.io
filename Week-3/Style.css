@@ -3,9 +3,13 @@ body {
 }
 h1 {
     color: blueviolet;
-    margin-left: 20px;
+    margin-left: 50px;
 }
 h2 {
     color: darkred;
-    margin-left: 20px;
+    margin-left: 75px;
+}
+h3 { 
+    color: goldenrod;
+    margin-left: 100px;
 }
