@@ -1,0 +1,25 @@
+body {background-color: maroon;}
+h1 { 
+    color: bisque;
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+h2 {
+    color: bisque;
+  font-family: 'Times New Roman', Times, serif, cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  align-items: center;
+  border: 5px solid bisque
+}
+
+
+    
